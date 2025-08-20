@@ -26,6 +26,8 @@ It allows users to calculate the tip amount and total bill based on the entered 
 
 ## 📂 Project Structure
 ├── index.html # Main HTML file
+
 ├── style.css # Custom CSS styles
+
 ├── index.js # JavaScript logic for calculator
 
